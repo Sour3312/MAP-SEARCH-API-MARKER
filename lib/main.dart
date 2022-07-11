@@ -1,7 +1,6 @@
 // ignore_for_file: prefer_const_constructors, sort_child_properties_last, prefer_const_constructors_in_immutables
 
 import 'package:demo/first.dart';
-import 'package:demo/firstcpoy.dart';
 import 'package:demo/symbol.dart';
 import 'package:flutter/material.dart';
 import 'package:mapmyindia_gl/mapmyindia_gl.dart';
